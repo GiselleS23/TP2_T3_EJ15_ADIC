@@ -1,4 +1,4 @@
-/* Escriba un diagrama que muestre la tabla ASCII.
+/* 15- Escriba un diagrama que muestre la tabla ASCII.
 Sacchetti, Maria Giselle C2*/
 
 /* 32 (el primer carácter imprimible en la tabla ASCII) y terminamos en 126 (el último carácter imprimible en la tabla ASCII). */
